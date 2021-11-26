@@ -36,7 +36,8 @@ def merge(a, b):
 
 	return c
 
-array = [6,4,7,9,1,2,8,10,3,5]
+
+array = [6,4,7,1,1,2,8,10,3,5,123,63,24,62,1,1,42,235,45,7,23,0]
 
 print(mergesort(array))
 
