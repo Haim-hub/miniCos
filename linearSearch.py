@@ -3,3 +3,5 @@ find = 5
 for x in range(len(array)):
 	if array[x] is find:
 		print(x)
+		exit()
+print('Sucker does not exist')
