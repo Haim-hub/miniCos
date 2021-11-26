@@ -1,6 +1,6 @@
 
 array = [1,2,3,4,5,6,7,8,9,10]
-find = 5;
+find = 4;
 
 lowerBound = 1
 upperBound = len(array)
