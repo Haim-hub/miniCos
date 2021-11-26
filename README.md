@@ -1,0 +1,2 @@
+# miniCos
+Mini computersystemer projekt
